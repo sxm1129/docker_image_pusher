@@ -6,5 +6,8 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #xyhelper/chatgpt-mirror-server:latest
-mysql:8
-containrrr/watchtower
+#mysql:8
+#containrrr/watchtower
+
+xyhelper/chatgpt-share-server:latest
+xyhelper/auditlimit
