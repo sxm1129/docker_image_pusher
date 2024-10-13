@@ -8,7 +8,8 @@
 #xyhelper/chatgpt-mirror-server:latest
 #mysql:8
 
-#containrrr/watchtower
+containrrr/watchtower
+redis
 
 xyhelper/chatgpt-share-server:latest
 xyhelper/auditlimit
