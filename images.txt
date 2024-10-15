@@ -8,9 +8,9 @@
 xyhelper/chatgpt-mirror-server:latest
 #mysql:8
 
-containrrr/watchtower
-redis
+#containrrr/watchtower
+#redis
 
 xyhelper/chatgpt-share-server:latest
-xyhelper/auditlimit
-mysql:8.3.0
+#xyhelper/auditlimit
+#mysql:8.3.0
