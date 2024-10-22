@@ -18,3 +18,4 @@ xyhelper/chatgpt-share-server:latest
 fewinter/chatgpt-share-server-extend:latest
 fewinter/share-auditlimit-prod
 mysql:8.4
+seven222/chatgpt-share-server-expander:latest
