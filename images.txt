@@ -14,3 +14,5 @@ xyhelper/chatgpt-mirror-server:latest
 xyhelper/chatgpt-share-server:latest
 #xyhelper/auditlimit
 #mysql:8.3.0
+
+fewinter/chatgpt-share-server-extend:latest
