@@ -29,4 +29,6 @@
 #apache/doris:1.2.2-be-arm
 #apache/doris:1.2.2-fe-arm
 
-justincormack/nsenter1:arm64
+#justincormack/nsenter1:arm64
+
+yagagagaga/doris-manager:24.0
