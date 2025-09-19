@@ -31,4 +31,5 @@
 
 #justincormack/nsenter1:arm64
 
-yagagagaga/doris-manager:24.0
+#yagagagaga/doris-manager:24.0
+yagagagaga/doris-manager-agent:24.0
