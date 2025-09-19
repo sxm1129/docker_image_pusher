@@ -5,28 +5,28 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-xyhelper/chatgpt-mirror-server:latest
+#xyhelper/chatgpt-mirror-server:latest
 #mysql:8
 
 #containrrr/watchtower
 #redis
 
-xyhelper/chatgpt-share-server:latest
+#xyhelper/chatgpt-share-server:latest
 #xyhelper/auditlimit
 #mysql:8.3.0
 
-fewinter/chatgpt-share-server-extend:latest
-fewinter/share-auditlimit-prod
-mysql:8.4
-seven222/chatgpt-share-server-expander:latest
+#fewinter/chatgpt-share-server-extend:latest
+#fewinter/share-auditlimit-prod
+#mysql:8.4
+#seven222/chatgpt-share-server-expander:latest
 
-wxyin/chatgpt-share-server-job
+#wxyin/chatgpt-share-server-job
 
-apache/doris:be-3.1.0
-apache/doris:fe-3.1.0
+#apache/doris:be-3.1.0
+#apache/doris:fe-3.1.0
 
 
-apache/doris:1.2.2-be-arm
-apache/doris:1.2.2-fe-arm
+#apache/doris:1.2.2-be-arm
+#apache/doris:1.2.2-fe-arm
 
 justincormack/nsenter1:arm64
