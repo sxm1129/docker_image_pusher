@@ -35,8 +35,9 @@
 #yagagagaga/doris-manager-agent:24.0
 #unclecode/crawl4ai:0.7.7
 
-prom/prometheus:latest
-grafana/grafana:latest
-pull mysql:8.0
-prom/node-exporter:latest
+#prom/prometheus:latest
+#grafana/grafana:latest
+#pull mysql:8.0
+#prom/node-exporter:latest
+tugraph/tugraph-runtime:4.5.1
 
