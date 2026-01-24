@@ -6,7 +6,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #xyhelper/chatgpt-mirror-server:latest
-#mysql:8
+mysql:8
 
 #containrrr/watchtower
 #redis
